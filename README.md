@@ -1,4 +1,3 @@
-# boilerplate-react-functional-public
 Fetch Request in Class Component
 1. Fetch users data from the API and render it as an unordered list with name of the user.
 2. Use this URL to fetch data: https://jsonplaceholder.typicode.com/users
